@@ -1,0 +1,12 @@
+Ce projet est l'œuvre de Yassine BENMERAH et Antonio-Paul PRAGE, deux étudiants de CP2I2. Ce projet a été réalisé dans le cadre du cours d'option "Initiation aux interfaces graphiques"
+
+Voici les étapes à suivre pour générer le programme et l'exécuter :
+
+1) sur deux machines différentes, ouvrir le terminal
+Le reste des étapes doit être effecté sur chacune des deux machines.
+2) se placer dans le repertoire contenant le projet avec l'instruction cd BENMERAH_PRAGE_Bataille_navale à inscrire dans le terminal
+3) dans le terminal, écrire l'instruction make. Cela ouvrira un fichier Makefile qui compilera tous les éléments nécessaires afin 
+de générer un fichier exécutable nommé main_bn.exe
+4) dans le terminal, écrire l'instruction ./main_bn.exe pour lancer le programme
+5) Amusez-vous !
+

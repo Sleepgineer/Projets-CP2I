@@ -1,0 +1,7 @@
+TabNoir = -lTableauNoir
+math = -lm
+
+executable : compilation
+	./Projet_V
+compilation :
+	gcc MarioKartV.c -o Projet_V $(TabNoir) $(math)

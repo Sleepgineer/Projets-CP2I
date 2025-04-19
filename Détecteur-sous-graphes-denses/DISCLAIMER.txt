@@ -1,0 +1,11 @@
+DISCLAIMER :
+
+- Les fichiers graph1.txt, graph2.txt et kcluster139.txt sont des fichiers contenant trois graphes différents. Ils ont été utilisés pour tester notre projet. Le fichier parametres.txt permet d'ajuster certains facteurs dans la résolution du problème (nombre d'itérations, coefficient d'évaporation des phéromones, graine de nombre aléatoires)
+- L'ordre de lecture d'un fichier contenant un graphe est le suivant :
+. nombre de noeuds du sous-graphe
+. nombre de noeuds du graphe
+. nombre d'aretes du graphe
+. aretes du graphe avec leur poids
+
+- La valeur certifiée du poids optimal du graphe kcluster139 est 139.
+- Pour compiler le projet, il faut écrire dans le terminal gcc projet.c -o NOM_EXECUTABLE -lm 
